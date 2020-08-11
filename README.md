@@ -21,7 +21,9 @@
 
 ---
 
-<img align="left" alt="Dishant's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thisis-dc4&show_icons=true&hide_border=true" />
+<img align="left" alt="Dishant's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thisis-dc4&count_private=true&show_icons=true&theme=vue" />
+<img align="right" alt="Dishant's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisis-dc4&theme=vue&layout=compact" />
+
 
 [linkedin]: https://linkedin.com/in/dishant-chaudhary-477a1119b
 [flutter]: https://flutter.dev
