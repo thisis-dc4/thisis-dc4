@@ -21,6 +21,10 @@
 
 ---
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 ![Dishant's Github Stats](https://github-readme-stats.vercel.app/api?username=thisis-dc4&count_private=true&show_icons=true&theme=vue)
 
 <br />
