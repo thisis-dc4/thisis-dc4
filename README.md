@@ -2,7 +2,7 @@
 
 ## I'm a Student and Developer!
 
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Python
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read books and listen to music
 
