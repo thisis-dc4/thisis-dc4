@@ -23,7 +23,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 30 August, 2020 - 06 September, 2020
+
+Python       14 mins         ██████████████▒░░░░░░░░░░   57.09 % 
+Markdown     6 mins          ██████░░░░░░░░░░░░░░░░░░░   23.69 % 
+Git Config   4 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.22 % 
 ```
 <!--END_SECTION:waka-->
 
