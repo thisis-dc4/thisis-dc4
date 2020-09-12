@@ -23,7 +23,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 September, 2020 - 10 September, 2020
+Week: 04 September, 2020 - 11 September, 2020
 
 Python       2 hrs 29 mins   ██████████████████████▓░░   90.59 % 
 Markdown     8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
