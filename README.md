@@ -23,12 +23,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 September, 2020 - 12 September, 2020
+Week: 06 September, 2020 - 13 September, 2020
 
-Python       2 hrs 29 mins   ██████████████████████▓░░   90.59 % 
-Markdown     8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-Git Config   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
-JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+Python       2 hrs 14 mins   ████████████████████████▒   96.80 % 
+Markdown     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
 ```
 <!--END_SECTION:waka-->
 
