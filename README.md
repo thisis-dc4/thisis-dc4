@@ -23,11 +23,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 September, 2020 - 13 September, 2020
-
-Python       2 hrs 14 mins   ████████████████████████▒   96.80 % 
-Markdown     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
-JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
