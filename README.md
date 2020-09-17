@@ -23,7 +23,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 09 September, 2020 - 16 September, 2020
+
+SQL   35 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
