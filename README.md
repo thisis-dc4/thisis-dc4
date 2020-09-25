@@ -23,7 +23,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 September, 2020 - 23 September, 2020
+Week: 17 September, 2020 - 24 September, 2020
 
 SQL    1 hr 22 mins    ████████████████████████▒   96.78 % 
 JSON   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
