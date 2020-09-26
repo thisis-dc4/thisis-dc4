@@ -23,10 +23,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 September, 2020 - 24 September, 2020
-
-SQL    1 hr 22 mins    ████████████████████████▒   96.78 % 
-JSON   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
