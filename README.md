@@ -23,7 +23,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 26 September, 2020 - 03 October, 2020
+
+HTML         1 hr 33 mins    █████████████████▓░░░░░░░   71.32 % 
+Git Config   24 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.80 % 
+JSON         11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
 ```
 <!--END_SECTION:waka-->
 
