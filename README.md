@@ -23,11 +23,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 September, 2020 - 03 October, 2020
+Week: 27 September, 2020 - 04 October, 2020
 
-HTML         1 hr 33 mins    █████████████████▓░░░░░░░   71.32 % 
-Git Config   24 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.80 % 
-JSON         11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
+HTML         4 hrs           ████████████████████▒░░░░   81.89 % 
+Git Config   24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+JSON         15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+CSS          12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
 ```
 <!--END_SECTION:waka-->
 
