@@ -23,7 +23,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 September, 2020 - 04 October, 2020
+Week: 28 September, 2020 - 05 October, 2020
 
 HTML         4 hrs           ████████████████████▒░░░░   81.89 % 
 Git Config   24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
