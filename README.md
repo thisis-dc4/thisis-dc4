@@ -23,11 +23,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 October, 2020 - 10 October, 2020
-
-HTML   2 hrs 27 mins   ██████████████████████▓░░   90.38 % 
-CSS    11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
-JSON   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
