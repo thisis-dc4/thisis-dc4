@@ -23,7 +23,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 19 October, 2020 - 26 October, 2020
+
+HTML       24 mins         ██████████▒░░░░░░░░░░░░░░   41.43 % 
+JSON       18 mins         ████████░░░░░░░░░░░░░░░░░   31.60 % 
+Dart       8 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+Markdown   4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+YAML       2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
 ```
 <!--END_SECTION:waka-->
 
