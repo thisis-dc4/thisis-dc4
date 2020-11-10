@@ -23,10 +23,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 November, 2020 - 08 November, 2020
+Week: 02 November, 2020 - 09 November, 2020
 
-HTML         1 hr 41 mins    ████████████████████████░   96.13 % 
-JavaScript   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+JavaScript   1 hr 11 mins    ██████████████▒░░░░░░░░░░   56.96 % 
+HTML         52 mins         ██████████▒░░░░░░░░░░░░░░   41.99 % 
 ```
 <!--END_SECTION:waka-->
 
