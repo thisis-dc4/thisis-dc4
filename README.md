@@ -23,7 +23,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 November, 2020 - 16 November, 2020
+Week: 10 November, 2020 - 17 November, 2020
 
 Markdown     11 mins         ██████████████▒░░░░░░░░░░   57.36 % 
 JavaScript   8 mins          ██████████▓░░░░░░░░░░░░░░   42.64 % 
