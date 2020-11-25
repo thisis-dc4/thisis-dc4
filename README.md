@@ -23,12 +23,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 November, 2020 - 23 November, 2020
+Week: 17 November, 2020 - 24 November, 2020
 
-JavaScript   2 hrs 28 mins   ████████████████▒░░░░░░░░   65.17 % 
-Markdown     52 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.93 % 
-Other        24 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
-HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+JavaScript   3 hrs 14 mins   █████████████████▒░░░░░░░   69.57 % 
+Markdown     52 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.91 % 
+Other        25 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
+JSON         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 ```
 <!--END_SECTION:waka-->
 
