@@ -23,13 +23,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 December, 2020 - 09 December, 2020
+Week: 03 December, 2020 - 10 December, 2020
 
-JSON         2 hrs 51 mins   █████████████▓░░░░░░░░░░░   54.67 % 
-TypeScript   1 hr 24 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.91 % 
-JavaScript   36 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
-HTML         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
-Git Config   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+JSON         2 hrs 51 mins   ██████████████▒░░░░░░░░░░   57.70 % 
+TypeScript   1 hr 18 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.32 % 
+JavaScript   35 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+Git Config   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
 ```
 <!--END_SECTION:waka-->
 
