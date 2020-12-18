@@ -23,7 +23,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 December, 2020 - 16 December, 2020
+Week: 10 December, 2020 - 17 December, 2020
 
 JavaScript   6 hrs 10 mins   ███████████████████████▓░   94.65 % 
 CSS          11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
