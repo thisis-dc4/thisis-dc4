@@ -23,7 +23,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 December, 2020 - 30 December, 2020
+Week: 24 December, 2020 - 31 December, 2020
 
 Java   31 mins         ████████████████████████░   95.78 % 
 JSON   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
