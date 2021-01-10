@@ -23,7 +23,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 January, 2021 - 08 January, 2021
+Week: 02 January, 2021 - 09 January, 2021
 
 SCSS         4 hrs 35 mins   ████████████████▒░░░░░░░░   65.48 % 
 HTML         1 hr 49 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.95 % 
