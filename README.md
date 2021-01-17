@@ -23,7 +23,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 January, 2021 - 15 January, 2021
+Week: 09 January, 2021 - 16 January, 2021
 
 JavaScript   2 hrs 51 mins   ██████████████░░░░░░░░░░░   56.26 % 
 Java         1 hr 33 mins    ███████▓░░░░░░░░░░░░░░░░░   30.71 % 
