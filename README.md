@@ -23,7 +23,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 January, 2021 - 30 January, 2021
+Week: 24 January, 2021 - 31 January, 2021
 
 CSS    2 hrs 50 mins   ██████████████▓░░░░░░░░░░   58.87 % 
 HTML   1 hr 27 mins    ███████▓░░░░░░░░░░░░░░░░░   30.35 % 
