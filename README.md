@@ -23,11 +23,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 January, 2021 - 01 February, 2021
+Week: 26 January, 2021 - 02 February, 2021
 
-Java   5 hrs 52 mins   ████████████▓░░░░░░░░░░░░   50.81 % 
-CSS    3 hrs 45 mins   ████████░░░░░░░░░░░░░░░░░   32.44 % 
-HTML   1 hr 56 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.75 % 
+Java         7 hrs 51 mins   ██████████████▒░░░░░░░░░░   57.93 % 
+CSS          3 hrs 45 mins   ███████░░░░░░░░░░░░░░░░░░   27.68 % 
+HTML         1 hr 56 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.29 % 
 ```
 <!--END_SECTION:waka-->
 
