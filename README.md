@@ -1,42 +1,53 @@
-### Hi there, I'm Dishant👋
+# Hi there, I'm Dishant👋
 
-## I'm a Student and Developer!
+## I'm a Student and Developer
 
 - 🌱 I’m currently learning React
-- 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read books and listen to music
+
+### Languages and Tools I Use:
+
+[<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="30px"/>](VSCode)
+[<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="30px"/>](IntelliJ)
+[<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="30px"/>](Flutter)
+[<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30px">](JavaScript)
+[<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30px">](Reactjs)
+[<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30px">](Nodejs)
+[<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30px">](HTML5)
+[<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30px">](CSS3)
+[<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="30px">](sass)
+[<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30px">](Java)
+[<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="30px">](Bootstrap)
+[<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="30px">](Postgresql)
+[<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="30px">](mongodb)
+[<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30px">](Git)
+<br />
+<br />
 
 ### Connect with me:
 
-[<img align="left" alt="Dishant | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Dishant | LinkedIn" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />][linkedin]
 
-<br />
-
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]()
-[<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />][flutter]
-[<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]()
 <br />
 
 ---
 
+### My Weekly Coding Stats using [Wakatime](https://wakatime.com):
+
 <!--START_SECTION:waka-->
 ```text
-Week: 30 January, 2021 - 06 February, 2021
+Week: 30 August, 2020 - 06 September, 2020
 
-Java         10 hrs 37 mins  █████████████▓░░░░░░░░░░░   54.96 % 
-CSS          6 hrs 56 mins   █████████░░░░░░░░░░░░░░░░   35.92 % 
-HTML         1 hr 45 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
+Python       14 mins         ██████████████▒░░░░░░░░░░   57.09 % 
+Markdown     6 mins          ██████░░░░░░░░░░░░░░░░░░░   23.69 % 
+Git Config   4 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.22 % 
 ```
 <!--END_SECTION:waka-->
 
 ![Dishant's Github Stats](https://github-readme-stats.vercel.app/api?username=thisis-dc4&count_private=true&show_icons=true&theme=vue)
 
-<br />
-
 ![Dishant's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisis-dc4&theme=vue&layout=compact)
-
 
 [linkedin]: https://linkedin.com/in/dishant-chaudhary-477a1119b
 [flutter]: https://flutter.dev
+
