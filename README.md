@@ -36,11 +36,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 August, 2020 - 06 September, 2020
+Week: 30 January, 2021 - 06 February, 2021
 
-Python       14 mins         ██████████████▒░░░░░░░░░░   57.09 % 
-Markdown     6 mins          ██████░░░░░░░░░░░░░░░░░░░   23.69 % 
-Git Config   4 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.22 % 
+Java         10 hrs 37 mins  █████████████▓░░░░░░░░░░░   54.96 % 
+CSS          6 hrs 56 mins   █████████░░░░░░░░░░░░░░░░   35.92 % 
+HTML         1 hr 45 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
 ```
 <!--END_SECTION:waka-->
 
