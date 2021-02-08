@@ -35,15 +35,15 @@
 ### My Weekly Coding Stats using [Wakatime](https://wakatime.com):
 
 <!--START_SECTION:waka-->
-
 ```text
-Week: 30 January, 2021 - 06 February, 2021
+Week: 31 January, 2021 - 07 February, 2021
 
-Java         10 hrs 37 mins  █████████████▓░░░░░░░░░░░   54.96 %
-CSS          6 hrs 56 mins   █████████░░░░░░░░░░░░░░░░   35.92 %
-HTML         1 hr 45 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.05 %
+Java         11 hrs 27 mins  ████████████▓░░░░░░░░░░░░   50.41 % 
+CSS          6 hrs 56 mins   ███████▓░░░░░░░░░░░░░░░░░   30.58 % 
+Markdown     2 hrs 33 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
+HTML         1 hr 45 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 ```
-
 <!--END_SECTION:waka-->
 
 ![Dishant's Github Stats](https://github-readme-stats.vercel.app/api?username=thisis-dc4&count_private=true&show_icons=true&theme=vue)
