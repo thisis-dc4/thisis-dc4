@@ -36,12 +36,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 31 January, 2021 - 07 February, 2021
+Week: 01 February, 2021 - 08 February, 2021
 
-Java         11 hrs 27 mins  ████████████▓░░░░░░░░░░░░   50.41 % 
-CSS          6 hrs 56 mins   ███████▓░░░░░░░░░░░░░░░░░   30.58 % 
-Markdown     2 hrs 33 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
-HTML         1 hr 45 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+CSS          10 hrs 3 mins   ███████████▓░░░░░░░░░░░░░   46.30 % 
+Java         6 hrs 5 mins    ███████░░░░░░░░░░░░░░░░░░   28.06 % 
+HTML         2 hrs 56 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+Markdown     2 hrs 36 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
 Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 ```
 <!--END_SECTION:waka-->
