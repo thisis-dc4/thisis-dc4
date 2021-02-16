@@ -36,7 +36,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 February, 2021 - 14 February, 2021
+Week: 08 February, 2021 - 15 February, 2021
 
 CSS          14 hrs 38 mins  ████████████▒░░░░░░░░░░░░   49.47 % 
 HTML         8 hrs 54 mins   ███████▓░░░░░░░░░░░░░░░░░   30.12 % 
