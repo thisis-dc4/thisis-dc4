@@ -36,9 +36,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 March, 2021 - 23 March, 2021
+Week: 17 March, 2021 - 24 March, 2021
 
-JavaScript   1 hr 5 mins     ████████████████████████▓   98.98 % 
+JavaScript   6 mins          ██████████████████████▓░░   91.03 % 
 ```
 <!--END_SECTION:waka-->
 
