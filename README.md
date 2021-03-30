@@ -36,7 +36,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 March, 2021 - 28 March, 2021
+Week: 22 March, 2021 - 29 March, 2021
 
 JavaScript   1 hr 58 mins    ████████████████░░░░░░░░░   63.38 % 
 EJS          55 mins         ███████▒░░░░░░░░░░░░░░░░░   29.57 % 
