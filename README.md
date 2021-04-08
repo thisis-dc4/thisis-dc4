@@ -36,10 +36,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 March, 2021 - 06 April, 2021
-
-JavaScript   19 mins         ███████████████████████▒░   93.46 % 
-EJS          1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
