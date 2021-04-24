@@ -36,7 +36,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 April, 2021 - 22 April, 2021
+Week: 16 April, 2021 - 23 April, 2021
 
 JavaScript   1 hr 11 mins    ███████████████████████▒░   93.81 % 
 JSON         3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
