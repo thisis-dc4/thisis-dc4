@@ -32,7 +32,7 @@
 
 ---
 
-### My Weekly Coding Stats using [Wakatime](https://wakatime.com):
+<!--### My Weekly Coding Stats using [Wakatime](https://wakatime.com):-->
 
 <!--START_SECTION:waka-->
 ```text
