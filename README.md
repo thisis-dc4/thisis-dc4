@@ -5,7 +5,7 @@
 - [<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30px">](Reactjs) I’m currently learning React
 - ⚡ Fun fact: I love to read books and listen to music
 
-### Languages and Tools I Use:
+## Languages and Tools I Use:
 
 [<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="30px"/>](VSCode)
 [<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="30px"/>](IntelliJ)
@@ -24,21 +24,13 @@
 <br />
 <br />
 
-### Connect with me:
+## Connect with me:
 
 [<img align="left" alt="Dishant | LinkedIn" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />][linkedin]
 
 <br />
 
 ---
-
-<!--### My Weekly Coding Stats using [Wakatime](https://wakatime.com):-->
-
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
 
 ![Dishant's Github Stats](https://github-readme-stats.vercel.app/api?username=thisis-dc4&count_private=true&show_icons=true&theme=vue)
 
