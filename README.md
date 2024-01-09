@@ -32,10 +32,6 @@
 
 ---
 
-![Dishant's Github Stats](https://github-readme-stats.vercel.app/api?username=thisis-dc4&count_private=true&show_icons=true&theme=vue)
-
-![Dishant's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisis-dc4&theme=vue&layout=compact)
-
 [Linkedin]: https://linkedin.com/in/dishant-chaudhary-477a1119b
 [Flutter]: https://flutter.dev
 [Javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
