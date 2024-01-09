@@ -1,6 +1,6 @@
 # Hi there, I'm Dishant👋
 
-## I'm a Student and Developer
+## I'm a Developer
 
 - [<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30px">](Reactjs) I’m currently learning React
 - ⚡ Fun fact: I love to read books and listen to music
